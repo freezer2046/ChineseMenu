@@ -1,0 +1,12 @@
+#Table{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+table,th,td{
+    border: 1px solid grey;
+}
+
+tbody tr:nth-child(odd){
+    background-color: #fff;
+}
